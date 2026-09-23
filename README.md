@@ -1,6 +1,6 @@
 # Espacios de color aplicados a visión por ordenador
 
-Cuaderno Jupyter para explorar y comparar distintos espacios de color utilizados en visión por ordenador mediante OpenCV y Matplotlib.
+Este cuaderno de Jupyter sirve para explorar y comparar distintos espacios de color utilizados en visión por ordenador mediante OpenCV y Matplotlib.
 
 ## Contenido
 
